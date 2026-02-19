@@ -1,0 +1,23 @@
+{
+  "name": "pdcrankingtracker",
+  "version": "1.0.0",
+  "description": "PDC Ranking Tracker after events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iflam/PDCRankingTracker.git"
+  },
+  "author": "Itai Flam",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/iflam/PDCRankingTracker/issues"
+  },
+  "homepage": "https://github.com/iflam/PDCRankingTracker#readme",
+  "dependencies": {
+    "node-pg-migrate": "^8.0.4",
+    "pg": "^8.18.0"
+  }
+}
